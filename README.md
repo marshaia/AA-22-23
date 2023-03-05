@@ -1,4 +1,4 @@
-# **Arquiteturas Aplicacionais**
+# **AA-22-23**
 Trabalhos da unidade curricular Arquiteturas Aplicacionais, sendo o projeto desenvolvido em conjunto com a unidade curricular de Sistemas Interativos Confiáveis.
 
 
