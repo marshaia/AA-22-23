@@ -1,5 +1,7 @@
-# **Arquiteturas Aplicacionais**
-Trabalhos da unidade curricular Arquiteturas Aplicacionais, sendo o projeto desenvolvido em conjunto com a unidade curricular de Sistemas Interativos Confiáveis.
+# **AA & SIC**
+
+Trabalhos da unidade curricular Arquiteturas Aplicacionais, sendo o projeto desenvolvido em conjunto com Sistemas Interativos Confiáveis.
+Ambas estas UCs pertencem ao perfil de Engenharia de Aplicações do Mestrado em Engenharia Informática.
 
 
 ### **Feitos por:**
